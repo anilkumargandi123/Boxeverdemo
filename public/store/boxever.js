@@ -2,11 +2,11 @@
 var _boxeverq = _boxeverq || [];
 
 var _boxever_settings = {
-    client_key: 'pqsrxehja3f17kpxeuvoare26qfmbcu0',
+    client_key: 'psfu6uh05hsr9c34rptlr06dn864cqrx',
     target: 'https://api.boxever.com/v1.2',
     cookie_domain: '.boxever.vercel.app',
     web_flow_target: 'https://d35vb5cccm4xzp.cloudfront.net',
-    pointOfSale: "alphaspingaming.com"
+    pointOfSale: "mysitecorecdp"
 };
 
 (function () {
